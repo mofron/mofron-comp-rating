@@ -1,2 +1,2 @@
-# mofron-parts-rating
-rating component for mofron
+# mofron-comp-rating
+Rating Component for mofron
